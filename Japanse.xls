@@ -1,0 +1,8 @@
+l_type	/html/body/main/h1
+title	//*[@id="list"]/table/tbody/tr/td[2]/a
+link	//*[@id="list"]/table/tbody/tr/td[2]/a/@href
+rate	//*[@id="list"]/table/tbody/tr/td[3]/table/tbody/tr/td[2]
+创建时间	//*[@id="list"]/table/tbody/tr/td[4]
+note	//*[@id="list"]/table/tbody/tr/td[5]
+Audio	//*[@id="list"]/table/tbody/tr/td[6]
+Images	//*[@id="list"]/table/tbody/tr/td[7]
